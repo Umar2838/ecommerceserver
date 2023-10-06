@@ -66,17 +66,17 @@
     {
         "id":9,
         "title":"Women Glasses",
-        "price":2000,
+        "price":1200,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen1.jpg",
+        "images":"https://static-01.daraz.pk/p/4cf03b018237b2001d7e562818db71d0.jpg",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
         "id":10,
         "title":"Women Glasses",
-        "price":2300,
+        "price":1500,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen2.jpg",
+        "images":"https://static-01.daraz.pk/p/d3761c28034f8702280f0385f72af0d3.jpg",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
@@ -84,15 +84,15 @@
         "title":"Women Glasses",
         "price":1300,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen3.jpg",
+        "images":"https://img.joomcdn.net/5d20c5186d4383d74988ddb54b6643056c588e6a_original.jpeg",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
         "id":12,
         "title":"Women Glasses",
-        "price":2200,
+        "price":1200,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen4.jpg",
+        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjp1RIGdfNCbgCULzt8tlcD90BJVh7IW0wee7m27gQY2yxt8gEfZ_F7GzTpSz-ri9TnM&usqp=CAU",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
@@ -100,7 +100,7 @@
         "title":"Women Glasses",
         "price":1500,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen5.jpg",
+        "images":"https://www.eyeglass.pk/wp-content/uploads/2021/07/n2-scaled-400x400.jpg",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
@@ -108,15 +108,15 @@
         "title":"Women Glasses",
         "price":1500,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen6.jpg",
+        "images":"https://m.media-amazon.com/images/I/51OoZlHsm5L._AC_UY1100_.jpg",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
         "id":15,
         "title":"Women Glasses",
-        "price":1500,
+        "price":1200,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen7.jpg",
+        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWyPFJvmuQOJgaXcSXa5hXuH2UPOm2ylQng&usqp=CAU",
         "rating":{"rate":3.9,"count":"120"}
     },
     {
@@ -124,7 +124,7 @@
         "title":"Women Glasses",
         "price":1800,
         "cateogory":"Women Glasses",
-        "images":"http://127.0.0.1:5500/images/eyeglasswomen8.jpg",
+        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjI_fzQ11jJQytHAmvXsGqA3edePeT9S3B_Fa3mKlv1XjJ_QBd6Se0EAnB63YxC2HpI3o&usqp=CAU",
         "rating":{"rate":3.0,"count":"120"}
     },
     {
