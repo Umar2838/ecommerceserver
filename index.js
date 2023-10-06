@@ -9,6 +9,13 @@ app.get('/',(req,res)=>{
     res.send(data)
 })
 
+app.get('/:id',(req,res)=>{
+    const itemId = parseInt(req.params.id)
+
+    const item = data.find((item)=> item.id === itemId)
+  res.send(item)  
+})
+
 
 app.listen(port,()=>{
 console.log("I am live")
